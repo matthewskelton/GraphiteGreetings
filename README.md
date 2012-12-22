@@ -12,6 +12,6 @@ Making it work
 ----------------
 1. $ gem install 'graphite'
 1. $ ruby source/XmasGraphite.rb
-1. Then configure your Graphite graph according to the instructions in `source/XmasGraphite.rb'
+1. Then configure your Graphite graph according to the instructions in *source/XmasGraphite.rb*
 
 ![ScreenShot](https://raw.github.com/matthewskelton/GraphiteGreetings/master/screenshots/Graphite_XmasTree_demo.png)
