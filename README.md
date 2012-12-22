@@ -6,7 +6,7 @@ Use Graphite for line drawing with the 'graphite' Ruby gem!
 Requirements
 ------------
 1. Ruby 1.9.3 or later
-1. The 'graphite' Ruby gem
+1. The 'graphite' Ruby gem (http://rubygems.org/gems/graphite)
 
 Making it work
 ----------------
